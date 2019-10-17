@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": {
+            "model": "mobantispawn:block/example_block"
+        }
+    }
+}
